@@ -3,7 +3,7 @@
 ![Java](https://img.shields.io/badge/Java-98.4%25-blue)
 ![Dockerfile](https://img.shields.io/badge/Dockerfile-1.6%25-blue)
 
-Spring Boot application designed to manage orders and centers. It includes functionalities for creating orders, allocating them to centers, and managing center capacities. This project was build for the INDITEX Java Backend challenge, UI maded in Vue with nuxt for fun just to have a more friendly way to test the api.
+Spring Boot application designed to manage orders and centers. It includes functionalities for creating orders, allocating them to centers, and managing center capacities. This project was build for the INDITEX Java Backend challenge, UI maded in Vue with Nuxt and Mapbox for fun just to have a more friendly way to test the api.
 
 ![Captura de pantalla 2024-12-26 a las 15 05 19](https://github.com/user-attachments/assets/0c971a93-e61a-4192-8934-87db7bfe0fad)
 
